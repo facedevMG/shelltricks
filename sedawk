@@ -1,0 +1,5 @@
+ sed usage: 
+to remove specific line in a file
+  sed -i '/pattern/d'  filename
+to replace a line:
+  sed -i '/oldpattern/newpattern/g' filename
