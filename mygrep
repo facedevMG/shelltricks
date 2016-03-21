@@ -1,0 +1,2 @@
+#to simulate and operator using grep
+ls | egrep -e 'abo.*pid'
